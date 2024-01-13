@@ -1,0 +1,130 @@
+
+.head {
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.p1 {
+    margin-top: 50px;
+    margin-bottom: 1px;
+}
+.info {
+    display: flex;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.infoyo {
+    width: 60%;
+    
+    
+}
+
+.p2 {
+    text-align: justify;
+    margin-left: 300px;
+    justify-content: center;
+    width: 50%;
+}
+
+.expe {
+    text-align: center;
+
+    
+}
+
+
+.list {
+    display: flex;
+    margin-top: 100px;
+    gap: 10px;
+    text-align: justify;
+    justify-content: center;
+}
+
+.porta {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.imgs {
+    margin-top: 50px;
+}
+
+.cardcont {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card {
+    
+    width: 500px;
+    height: auto;
+    border-radius: 30px;
+    background: #e0e0e0;
+    box-shadow: 15px 15px 30px #bebebe,
+            -15px -15px 30px #ffffff;
+}
+
+.p4{
+    margin-top: 30px;
+}
+
+.pincha {
+    color: gray;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.con {
+    text-align: center;
+    margin-top: 150px;
+    
+    
+}
+
+.icon {
+    margin-top: 100px;
+    
+    
+    
+}
+
+.icono {
+    width: 100px;
+    height: 100px;
+    
+    
+}
+
+.fo {
+    border: 5px;
+    background-color: #323232 ;
+    height: 50px;
+    margin-top: 150px;
+    
+}
+
+.p5 {
+    color: #bebebe;
+    text-align: center;
+    
+}
